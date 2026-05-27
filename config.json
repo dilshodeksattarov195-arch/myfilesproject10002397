@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessiondave",
+        "uuid": 11889120,
+        "checksum": "3pbgue"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
